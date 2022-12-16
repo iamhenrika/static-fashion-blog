@@ -4,9 +4,7 @@
 
 https://iamhenrika.github.io/static-fashion-blog/
 
-
-
-
+<br />
 
 https://subtle-mochi-ec346e.netlify.app/
 
