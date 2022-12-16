@@ -2,7 +2,7 @@
 
  HTML & CSS mock-up
 
-https://iamhenrika.github.io/static-fashion-blog/
+https://iamhenrika.github.io/static-fashion-blog-mockup/
 
 <br />
 
