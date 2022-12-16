@@ -4,4 +4,7 @@
 
 https://iamhenrika.github.io/static-fashion-blog/
 
-https://github.com/iamhenrika/static-fashion-blog
+
+https://subtle-mochi-ec346e.netlify.app/
+
+https://github.com/iamhenrika/react-fashion-blog-mockup
